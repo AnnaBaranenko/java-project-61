@@ -4,7 +4,8 @@ plugins {
     application
 }
 application {
-    mainClass.set ("hexlet.code.App")
+    //mainClass.set ("hexlet.code.App")
+    mainClass = "hexlet.code.App"
 }
 group = "hexlet.code"
 version = "1.0-SNAPSHOT"
@@ -20,4 +21,10 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+}
+
+tasks.getByName("run", JavaExec::class) {
+     standardInput = System.`in`
+
+
 }
