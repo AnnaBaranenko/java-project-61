@@ -1,7 +1,15 @@
 plugins {
     id("java")
     id ("com.github.ben-manes.versions") version "0.42.0"
+    id("org.sonarqube") version "6.2.0.5505"
     application
+}
+sonar {
+    properties {
+        property("sonar.projectKey", "AnnaBaranenko_java-project-61")
+        property("sonar.organization", "annabaranenko")
+        property("sonar.host.url", "https://sonarcloud.io")
+    }
 }
 application {
     //mainClass.set ("hexlet.code.App")
