@@ -5,4 +5,4 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AnnaBaranenko_java-project-61&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=AnnaBaranenko_java-project-61)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=AnnaBaranenko_java-project-61&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=AnnaBaranenko_java-project-61)
 [![asciicast](https://asciinema.org/a/fvmFLAzj1uHiQeo6pe4mzwy6r.svg)](https://asciinema.org/a/fvmFLAzj1uHiQeo6pe4mzwy6r)
-<script src="https://asciinema.org/a/fvmFLAzj1uHiQeo6pe4mzwy6r.js" id="asciicast-fvmFLAzj1uHiQeo6pe4mzwy6r" async="true"></script>
+![Even](https://github.com/AnnaBaranenko/java-project-61/blob/main/assets/Even.cast)
